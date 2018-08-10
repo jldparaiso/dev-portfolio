@@ -2,7 +2,7 @@
 body{
 	background-image: url(../images/bg1.jpg);
 	background-repeat: no-repeat;
-	background-size: 800px 450px;
+	background-size: contain;
 	background-position: bottom;
 	color: #fff;
 	font-family: 'Poppins', sans-serif;
@@ -48,7 +48,7 @@ h3{
 	width: 100%;
 	font-size: 16px;
 	line-height: 1.5;
-	/*background-color: rgba(51,51,51,0.5);*/
+	background-color: rgba(51,51,51,0.35);
 	font-family: 'Poppins', sans-serif;
 
 }
